@@ -15,7 +15,7 @@ Hi, I am a fourth year Ph.D. student in computer science and engineering student
 I have much experience with teaching. I was instructor for Fundamental of Database course and worked as a teaching assistant for application of cryptography, programming and problem solving with C++, database administration and multimedia computing.
 <br>My supervisor is Dr. JungHwan Oh.
 <br> Other committee members are:
-Dr. Mark Albert, Dr. Serder Boxzdag, Dr. Heng Fan.
+Dr. Mark Albert, Dr. Serder Bozdag, Dr. Heng Fan.
 </p>
 
 ## About Me
