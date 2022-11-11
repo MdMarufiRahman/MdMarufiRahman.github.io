@@ -9,7 +9,7 @@ redirect_from:
 ---
 ### Welcome!
 <p align="justify">
-Hi, I am a fourth year Ph.D. student in computer science and engineering student at <a href="https://www.unt.edu" target="_blank"> Univeristy of North Texas</a>. My research interest areas are computer vision, Deep learning and medical image analysis.
+Hi, I am a fourth year Ph.D. student in computer science and engineering student at <a href="https://www.unt.edu" target="_blank"> Univeristy of North Texas</a>. My research interest areas are computer vision, Deep learning and medical image analysis. My main goal for my doctoral research is to develop efficient technique for computer aided diagnosis. I am currently working on domain adaptation challenge for colonoscopy images.
 </p>
 <p align="justify">
 I have much experience with teaching. I was instructor for Fundamental of Database course and worked as a teaching assistant for application of cryptography, programming and problem solving with C++, database administration and multimedia computing.
