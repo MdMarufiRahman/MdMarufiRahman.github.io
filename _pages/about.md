@@ -9,7 +9,7 @@ redirect_from:
 ---
 ### Welcome!
 <p align="justify">
-Hi, I am a third year Ph.D. student in computer science and engineering student at <a href="https://www.unt.edu" target="_blank"> Univeristy of North Texas</a>. My research interest areas are computer vision, Deep learning and medical image analysis. My main goal for my doctoral research is to develop efficient technique for computer aided diagnosis(CAD). I am currently working on domain adaptation challenge for colonoscopy images.
+Hi, I am a fourth year Ph.D. student in computer science and engineering student at <a href="https://www.unt.edu" target="_blank"> Univeristy of North Texas</a>. My research interest areas are computer vision, Deep learning and medical image analysis. My main goal for my doctoral research is to develop efficient technique for computer aided diagnosis(CAD). I am currently working on domain adaptation challenge for colonoscopy images.
 </p>
 <p align="justify">
 I have much experience with teaching. I was instructor for Fundamental of Database course and worked as a teaching assistant for application of cryptography, programming and problem solving with C++, database administration and multimedia computing.
@@ -34,6 +34,7 @@ In my final year of undergrad, I tried to solve some biomedical coil(transcanial
 After an extensive search I found a complete match with my supervisor's work. Our lab has a focused research on computer aided diagnosis for gastrointestinal diseases. In colonsocopy or endoscopy images, because of the images' nature (texture of colon, specular reflection,blurry frames) it is always hard to get useful information from those frames. There are also data-scarcity, image annotation, domain adaptation issues for this type of medical image dataset. Solving those problems will create a big impact on medical image analysis. I mainly focus on solving those medical image related problems with deep learning and standard image processing techniques.
 </p>
 # News 
-
+- Feb 2023: Presented full paper at Biosignal 2023
+- Jan 2023: appointed as TA for CSCE5370(Distributed and Parallel Database)
 - Aug 2022: appointed as TA for CSCE5390(Multimedia computing)
 - March 2022: passed Ph.D. qualifier
