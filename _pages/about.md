@@ -21,7 +21,7 @@ Dr. Mark Albert, Dr. Serder Bozdag, Dr. Heng Fan.
 ## About Me
 <p align="justify">
 I work at <a href="http://www.cse.unt.edu/~jhoh/" target="_blank">Multimedia Information Group</a> lab.
-After completing my bachelor's degree (in electronics and telecommunication engineering)from <a href="https://www.ruet.ac.bd/" target="_blank"> Rajshahi University of Engineering and Technology (Bangladesh)</a>, I joined Dr.Oh's lab.
+After completing my bachelor's degree (in electronics and telecommunication engineering)from <a href="https://www.ruet.ac.bd/" target="_blank"> Rajshahi University of Engineering and Technology</a>, I joined Dr.Oh's lab.
 <br>
 <br>
 I published my first research paper in 2016. It was a project mainly focused on vehicle tracking with Arduino. I did a lot of electronics and IoT(Internet of Things) related projects back then. Studying engineering in my undergrad was the best decision of my life  as it enabled me to explore different pathways of technology. My knack for problem-solving and love for mathematics also make me a suitable candidate to earn the degree. 
