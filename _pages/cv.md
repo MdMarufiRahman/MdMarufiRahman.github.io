@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-![download cv here] (https://MdMarufiRahman.github.io/files/marufi___CV__.pdf)
+![download cv here] (https://github.com/MdMarufiRahman/MdMarufiRahman.github.io/blob/9cc1bce7ee15712aadd39801000cb6dd966ed0ef/files/marufi__CV__.pdf)
 
 <object data="files/marufi__CV__.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="files/marufi__CV__.pdf">
