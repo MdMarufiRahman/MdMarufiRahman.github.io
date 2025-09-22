@@ -31,7 +31,9 @@ In my final year of undergrad, I tried to solve some biomedical coil(transcrania
 <br>
 After an extensive search, I found a complete match with my supervisor's work. Our lab has 'focused research' on computer-aided diagnosis for gastrointestinal diseases. In colonoscopy or endoscopy images, because of the images' nature (texture of colon, specular reflection, blurry frames), it is always hard to get useful information from those frames. There are also data scarcity, image annotation, and domain adaptation issues for this type of medical image dataset. Solving those problems will create a big impact on medical image analysis. I mainly focus on solving those medical image-related problems with deep learning and standard image processing techniques.
 </p>
-# News 
+<!-- This is a comment and will not be visible in the rendered output -->
+<!-- # News 
 - Nov 2023: One paper got accepted at the SC '23 Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis.
 - Aug 2023: appointed as TA for CSCE5350(Fundamental of Database)
 - Feb 2023: Presented full paper at Biosignal 2023
+This is a comment and will not be visible in the rendered output -->
