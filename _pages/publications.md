@@ -27,8 +27,3 @@ Technology Conference (R10-HTC), Dhaka, 2017, pp. 279-283.
 5. M. M. Rahman, J. R. Mou, K. Tara and M. I. Sarkar, “Real time Google map and Arduino
 based vehicle tracking system”, 2016 2nd International Conference on Electrical, Computer and
 Telecommunication Engineering (ICECTE), Rajshahi, 2016, pp. 1-4
-<!--
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
