@@ -2,19 +2,19 @@
 main:
   - title: "CV"
     url: /files/cv_may_2024.pdf
-  # - title: "Skills"
-  #   url: /skills/
+  - title: "Skills"
+    url: /skills/
 
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Publications"
+    url: /publications/
 
-  # - title: "Employment History"
-  #   url: /employment/  
+  - title: "Employment History"
+    url: /employment/  
   # - title: "Talks"
   #   url: /talks/    
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
