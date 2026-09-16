@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Md Marufi Rahman"
 title_separator          : "-"
 name                     : &name "Md Marufi Rahman"
-description              : &description "Ph.D. candidate|CS|UNT"
+description              : &description "ML Engineer | PhD in Computer Science | Computer Vision • Deep Learning • NLP"
 url                      : https://MdMarufiRahman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MdMarufiRahman/MdMarufiRahman.github.io"
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Md Marufi Rahman"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate|CSE|UNT"
+  bio              : "ML Engineer | PhD in Computer Science | Computer Vision • Deep Learning • NLP"
   location         : "Dallas-Frotworth Metroplex"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Dor9JRoAAAAJ&hl=en"
-  email            : "marufi.ruet@gmail.com"
+  email            : "mm_rahman_111@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "md-marufi-rahman-384635a8"
+  linkedin         : "https://www.linkedin.com/in/mdmarufirahman"
   orcid            : 
   pinterest        :
   soundcloud       :
